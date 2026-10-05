@@ -5,7 +5,7 @@ I am Arupam Sengupta. I have a decade of experience in the field of Software Eng
 
 - 🔭 I’m currently working on ... Frontend Engineering, Code Review, Product Development
 - 🌱 I’m currently learning ... GenAI, MCP, RAG, Vibe Coding, AI-Driven Software Engineering
-- 👯 I’m looking to collaborate on ... Frontend Development, GenAI, AI.
+- 👯 I’m looking to collaborate on ... Frontend Development, Generative AI, Agentic AI.
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ... engineering.arupamsengupta@gmail.com
